@@ -9,7 +9,7 @@
       <li><a href = "index.html"> Home Page </a> </li>
       <li><a href = "Projects"> Projects </a> </li>
     </ul>
-<html>
+<h1>
   <head>
   </head>
   <body>
@@ -17,7 +17,7 @@
       <h1> Nutritional Benefits of Cereal app </h1>
       <br>
     <iframe width="392" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/yxHpnEj_OZU5lDxfSbhkKYj8jIPEnnl7QNT3GSe9Tl2/embed?nosource"></iframe>
-
+</html>
 <style>
 
 
